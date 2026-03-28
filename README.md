@@ -11,7 +11,7 @@ An intelligent chatbot that recommends nearby local shops to users based on thei
 
 ## 📸 Screenshot
 
-![Locus Chatbot Interface](screenshot.png)
+![Locus Chatbot Interface](Screenshot.png)
 
 ---
 
